@@ -1,5 +1,5 @@
 # VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning
-Implementation of paper [[arXiv]](https://arxiv.org/abs/2505.04192)):
+[[📜 arXiv]](https://arxiv.org/abs/2505.04192) [[🌐 Project Page:]]([https://arxiv.org/abs/2505.04192](https://trinhvg.github.io/videopath-llava.github.io/))
 
 <p align="center" width="100%">
 <img src="figure/Network.png"  width="80%" height="80%">
