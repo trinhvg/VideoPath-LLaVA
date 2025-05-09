@@ -8,7 +8,7 @@ Our method leverages chain-of-thought (CoT) prompting to distill the reasoning c
 📚 Trained on 4,278 instructional video pairs 
 
 ⚙️ Combines single-image + clip transfer and fine-tuning on segmented diagnostic videos 
-
+## Model
 <p align="center" width="100%">
 <img src="figure/Network.png"  width="80%" height="80%">
 </p>
